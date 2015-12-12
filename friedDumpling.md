@@ -22,6 +22,8 @@
 
 by Yixuan 
 
+[修订版](http://yixuan.li/yixuan/2015/11/23/friedDumpling/)
+
 ```
 
      DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
